@@ -11,6 +11,15 @@
   <p>Exclusão (Delete): Funcionalidade para excluir usuários, manipulando o estado global da aplicação.</p>
 </div>
 <br>
+<div> 
+<h3>Exemplo de utilização do projeto :camera:</h3>
+<p>Ao preencher os campos nome, idade, email e clicar no botão cadastrar usuário, as informações são enviadas a pagina de usuários cadastrados. É possível visualizar todos os cadastros feitos ao clica no botão "lista de usuários".</p>
+  <p>Exemplo 1</p>
+<img src="https://raw.githubusercontent.com/Williancosta98/devclub-cadastro-usuarios/refs/heads/master/src/assets/img-and-video-project/img-1.png">
+  <p>Exemplo 2</p>
+<img src="https://raw.githubusercontent.com/Williancosta98/devclub-cadastro-usuarios/refs/heads/master/src/assets/img-and-video-project/img-2.png">
+</div>
+<br>
 <div>
 <h4>:rocket: Tecnologias e Conceitos Dominados:</h4>
 <p>Setup Inicial: <b>React, Yarn, Vite</b> (bundler)</p>
@@ -22,4 +31,6 @@
 <p>Qualidade de Código: PropTypes (Validação de props)</p>
 <p>Estilização: CSS no React, Estilização do CSS pelo JS (Styled Components/CSS-in-JS)</p>
 </div>
+<br>
+
 <p>#ReactJS #FrontendDevelopment #JavaScript #CRUD</p>
